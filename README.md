@@ -6,7 +6,7 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Saatvik07&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saatvik07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Saatvik07's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saatvik07)](https://github.com/anuraghazra/github-readme-stats) -->
+-- [![Saatvik07's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saatvik07)](https://github.com/anuraghazra/github-readme-stats)
 
 ![language1](https://img.shields.io/badge/Code-JS-blue?style=flat&logo=javascript)
 ![language4](https://img.shields.io/badge/Code-React-blue?style=flat&logo=react)
