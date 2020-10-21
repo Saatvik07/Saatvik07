@@ -1,4 +1,5 @@
-<link href="style.css" rel="stylesheet></link>
+<link href="./style.css" rel="stylesheet></link>
+                              
 ### Hi there XD
 
 <p class="quote"> “ Code is like humor. When you have to explain it, it’s bad.” – Cory House </p>
