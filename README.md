@@ -1,5 +1,11 @@
-### Hi there 👋
+<link href="style.css" rel="stylesheet></link>
+### Hi there XD
 
+<p class="quote"> “ Code is like humor. When you have to explain it, it’s bad.” – Cory House </p>
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=Saatvik07&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saatvik07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Saatvik07's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saatvik07)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Saatvik07/Saatvik07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
