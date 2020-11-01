@@ -4,7 +4,7 @@
 
 <p class="quote"> “ Code is like humor. When you have to explain it, it’s bad.” – Cory House </p>
 
-[![Saatvik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saatvik07)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Saatvik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Saatvik07)](https://github.com/anuraghazra/github-readme-stats)-->
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Saatvik07&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saatvik07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
