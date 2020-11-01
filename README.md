@@ -5,6 +5,7 @@
 <p class="quote"> “ Code is like humor. When you have to explain it, it’s bad.” – Cory House </p>
 
 <img src="https://github.com/Saatvik07/Saatvik07/blob/master/images/codeStats.svg" alt="WakaTime Stats"/>
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Saatvik07&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saatvik07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
