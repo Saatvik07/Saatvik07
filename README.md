@@ -1,7 +1,7 @@
-<link href="./style.css" rel="stylesheet></link>
-                              
+                             
 ### Hi there XD
-<a href="https://www.google.com/" target="_blank">Google</a>
+
+<a href="https://github.com/m-a-x-i-m-u-s" target="_blank">Alt/Work Account</a>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Saatvik07&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saatvik07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
